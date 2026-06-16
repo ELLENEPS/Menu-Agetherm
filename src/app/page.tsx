@@ -3,9 +3,9 @@
 export default function MenuAgetherm() {
   // Lista dos seus sistemas - Substitua os links pelos endereços reais da Vercel
   const links = [
-    { name: "Formulário de Reembolso", url: "https://formulario-reembolso-agetherm.vercel.app/" },
-    { name: "Gerador de Etiquetas Obramax", url: "https://gerador-etiquetas-agt.vercel.app/" },
-    { name: "Gerador de Etiquetas Maglog", url: "https://etiquetas-dun-14-agetherm.vercel.app/" },
+    { name: "FORMULÁRIO DE REEMBOLSO", url: "https://formulario-reembolso-agetherm.vercel.app/" },
+    { name: "GERADOR DE ETIQUETAS OBRAMAX", url: "https://gerador-etiquetas-agt.vercel.app/" },
+    { name: "GERADOR DE ETIQUETAS MAGLOG", url: "https://etiquetas-dun-14-agetherm.vercel.app/" },
   ];
 
   return (
